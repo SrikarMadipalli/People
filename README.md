@@ -1,1 +1,1 @@
-People
+This is For the Immersive Full Stack Training By StackRoute
